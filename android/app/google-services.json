@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555543279791",
+    "project_id": "helium-messenger",
+    "storage_bucket": "helium-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555543279791:android:2457417ead9959936bfc5a",
+        "android_client_info": {
+          "package_name": "com.helium.helium_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555543279791-3nakldm9nimuudnuh1nrka9mi020c935.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helium.helium_messenger",
+            "certificate_hash": "6514c4907690cd7f0b326c227b14baece4f62f1b"
+          }
+        },
+        {
+          "client_id": "555543279791-hq7bisb4isu7s8hcovfp9t23o82hluj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqRQ2fh6PanXFstugJkMZ45hpyytwy_ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555543279791-hq7bisb4isu7s8hcovfp9t23o82hluj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
